@@ -1,5 +1,7 @@
 Technologie utilisé:
+
 - Python
 - Fast aPI
 
-Bas
+Base de donnée:
+- sqlite3
